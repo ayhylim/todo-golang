@@ -1,2 +1,2 @@
 # todo-golang
-Membuat program to-do-list menggunakan bahasa pemrograman golang
+Membuat program to-do-list sederhana menggunakan bahasa pemrograman golang
